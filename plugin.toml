@@ -1,0 +1,7 @@
+name = "tokyonight"
+display-name = "Tokyo Night"
+description = "TokyoNight theme ported to Lapce from the famous Visual Studio Code TokyoNight theme."
+version = "0.1.0"
+author = "Jonas Schäfer"
+repository = "xlink9x/lapce-tokyonight"
+theme = ["tokyonight-storm.toml"]
